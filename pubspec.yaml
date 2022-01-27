@@ -8,11 +8,11 @@ environment:
   sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  dio: ^3.0.8
-  json_annotation: ^3.0.0
+  dio: ^3.0.10
+  json_annotation: ^3.0.1
   dartpoet: ^1.0.6+3
   named_mode: ^1.0.2+1
-  shelf: ^0.7.5
+  shelf: ^0.7.9
   useful_extension: ^1.0.0
   meta: ^1.1.8
   trident: ^1.0.0
